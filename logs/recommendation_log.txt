@@ -1,0 +1,71 @@
+========================================================================
+Run time: 2026-04-29 04:20:22.721071
+Mode: genre-first
+User preferences: {'genre': 'pop', 'mood': 'happy', 'energy': 0.9, 'valence': 0.85, 'acoustic': False, 'danceability': 0.88}
+Candidate count: 8
+Confidence: High
+Warnings: none
+Recommendations:
+- Sunrise City by Neon Echo | score=9.11
+- Gym Hero by Max Pulse | score=7.31
+- Rooftop Lights by Indigo Parade | score=5.8
+
+========================================================================
+Run time: 2026-04-29 04:20:22.724344
+Mode: mood-first
+User preferences: {'genre': 'lofi', 'mood': 'chill', 'energy': 0.38, 'valence': 0.57, 'acoustic': True, 'danceability': 0.6}
+Candidate count: 9
+Confidence: High
+Warnings: none
+Recommendations:
+- Library Rain by Paper Lanterns | score=9.23
+- Midnight Coding by LoRoom | score=9.1
+- Spacewalk Thoughts by Orbit Bloom | score=7.97
+
+========================================================================
+Run time: 2026-04-29 04:20:22.727883
+Mode: energy-focused
+User preferences: {'genre': 'rock', 'mood': 'intense', 'energy': 0.91, 'valence': 0.45, 'acoustic': False, 'danceability': 0.65}
+Candidate count: 8
+Confidence: High
+Warnings: none
+Recommendations:
+- Storm Runner by Voltline | score=9.36
+- Gym Hero by Max Pulse | score=8.41
+- Iron Wall by Fracture Point | score=7.28
+
+========================================================================
+Run time: 2026-04-29 04:20:22.730855
+Mode: balanced
+User preferences: {'genre': 'blues', 'mood': 'sad', 'energy': 0.45, 'valence': 0.3, 'acoustic': True, 'danceability': 0.5}
+Candidate count: 10
+Confidence: Low
+Warnings:
+- Top result does not match requested genre.
+- Requested genre 'blues' not found in results.
+Recommendations:
+- Empty Chair by Dusk & Ember | score=8.13
+- Broken Strings by Hollow Crown | score=6.46
+- Midnight Coding by LoRoom | score=6.14
+
+========================================================================
+Run time: 2026-04-29 04:20:22.732379
+Mode: energy-focused
+User preferences: {'genre': 'metal', 'mood': 'aggressive', 'energy': 0.95, 'valence': 0.2, 'acoustic': True, 'danceability': 0.55}
+Candidate count: 1
+Confidence: High
+Warnings: none
+Recommendations:
+- Iron Wall by Fracture Point | score=8.35
+
+========================================================================
+Run time: 2026-04-29 04:20:22.734016
+Mode: genre-first
+User preferences: {'genre': 'rock', 'mood': 'intense', 'energy': 0.95, 'valence': 0.5, 'acoustic': True, 'danceability': 0.65}
+Candidate count: 2
+Confidence: High
+Warnings: none
+Recommendations:
+- Storm Runner by Voltline | score=8.49
+- Gym Hero by Max Pulse | score=5.13
+

@@ -1,0 +1,15 @@
+genre,typical_energy,typical_mood,description
+pop,0.7,happy,mainstream upbeat music with catchy melodies
+lofi,0.3,chill,low energy instrumental music for focus and relaxation
+rock,0.8,intense,guitar driven energetic music
+ambient,0.2,calm,very low energy atmospheric soundscapes
+jazz,0.4,relaxed,smooth and improvisational music
+synthwave,0.7,moody,retro electronic music with nostalgic tones
+hip-hop,0.6,confident,rhythmic vocal focused music
+classical,0.2,melancholic,orchestral and instrumental compositions
+edm,0.9,euphoric,high energy electronic dance music
+country,0.5,nostalgic,storytelling music with acoustic elements
+r&b,0.5,romantic,smooth and emotional vocal music
+metal,0.95,aggressive,very high energy heavy music
+soul,0.4,sad,emotional expressive vocal music
+reggae,0.5,relaxed,laid back rhythmic island music
