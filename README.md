@@ -105,7 +105,7 @@ This makes the system modular, testable, and more realistic.
 
 ## System Diagram
 
-![System Diagram](assets/your-diagram.png)
+![System Diagram](assets/your-diagram.png.png)
 
 ---
 
@@ -226,4 +226,4 @@ I also learned that breaking a system into components like retriever, recommende
 
 ## Demo Video
 
-<video src="assets/demo.mp4" controls width="600"></video>
+[Watch Demo Video](assets/demo.mp4)
