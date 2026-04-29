@@ -226,4 +226,4 @@ I also learned that breaking a system into components like retriever, recommende
 
 ## Demo Video
 
-<a href="assets/demo.mp4" download="demo.mp4">Download Demo Video</a>
+[Download Demo Video](https://raw.githubusercontent.com/betelhemabebe-beep/applied-ai-system-project/main/assets/demo.mp4)
