@@ -226,4 +226,4 @@ I also learned that breaking a system into components like retriever, recommende
 
 ## Demo Video
 
-[Watch Demo Video](assets/demo.mp4)
+<a href="assets/demo.mp4" download="demo.mp4">Download Demo Video</a>
